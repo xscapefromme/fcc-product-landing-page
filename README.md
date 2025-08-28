@@ -8,4 +8,4 @@ good practice of building a real site with more practice using css. still need a
 - I did learned about the iframe and how to embed a youtube video which was cool. Used aspect ratio to keep it responsive.
 
 - Things that I need to constantly improve on is really just proper structing. I understand how it works just starting out is a little slow but over time slowly getting faster. Its just more like whats more effiecnt in laying out the layout and how to do it properly semantically and visually. 
-- Also realizing that the elemtn is going to take 100% full width if you set it width: 100% and add a max-width to let it know when to stop. Use margin: 0 auto to center it relative to the page. 
+- Also realizing that the element is going to take 100% full width if you set it width: 100% and add a max-width to let it know when to stop. Use margin: 0 auto to center it relative to the page. 
